@@ -274,7 +274,7 @@ h6 {
   width: 100%;
   height: 80vh;
   /*background: #37517e;*/
-  background: linear-gradient(rgba(0, 141, 162, 10), rgba(0, 141, 162, 0)), url("../images/maybe.jpeg") fixed center center;
+  background: linear-gradient(rgba(0, 141, 162, 10), rgba(0, 141, 162, 0)), url("../images/maybe.webp") fixed center center;
   font-family: 'Montserrat', sans-serif;
 }
 
@@ -531,7 +531,7 @@ li{
 # Cta
 --------------------------------------------------------------*/
 .cta {
-  background: linear-gradient(rgba(0, 141, 162, 0.9), rgba(0, 141, 162, 0.9)), url("../images/pexels-nick-collins-1293118.jpg") fixed center center;
+  background: linear-gradient(rgba(0, 141, 162, 0.9), rgba(0, 141, 162, 0.9)), url("../images/pexels-nick-collins-1293118.webp") fixed center center;
   background-size: cover;
   padding: 200px 0;
 
